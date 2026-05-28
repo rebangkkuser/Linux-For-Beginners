@@ -1,0 +1,8 @@
+{
+  // Distributions available in URL/documents/distros
+"linux-mint": "available, version 22.3 codename Zena",
+  "fedora-linux": false,
+  "ubuntu": false,
+  "debian": false,
+  "cachyos": false
+}

@@ -6,5 +6,5 @@ author: "bangkkuser"
 # Linux For Beginners (or LFB)
 Welcome to the Linux For Beginners website. Here, you can view content.
 ## Other pages...
-[Documentation](https://rebangkkuser.github.io/Linux-For-Beginners/documents)
-[Our GitHub](https://github.com/rebangkkuser/Linux-For-Beginners)
+- [Documentation](https://rebangkkuser.github.io/Linux-For-Beginners/documents)
+- [Our GitHub](https://github.com/rebangkkuser/Linux-For-Beginners)
